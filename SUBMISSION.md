@@ -13,5 +13,5 @@
 ## Generative AI Insights
 
 Write about your experience using Generative AI for this assignment here
-
-Make sure to include links to the Generative AI prompts, e.g., [Link to Chat About EDA](https://link-to-chat1)
+https://chatgpt.com/share/679f267d-5ef0-8008-91c7-258f5dab6497
+Make sure to include links to the Generative AI prompts, e.g., [[Link to Chat About EDA](https://link-to-chat1)](https://chatgpt.com/share/679f267d-5ef0-8008-91c7-258f5dab6497)
